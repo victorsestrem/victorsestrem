@@ -22,6 +22,7 @@ Most of my work is proprietary, so the code stays private. The repositories belo
 | [Growth Analytics Dashboard](https://github.com/victorsestrem/growth-analytics-dashboard) | Campaign and messaging metrics from the Kommo API, Excel export | NestJS · Next.js · ExcelJS |
 | [Multi-tenant HVAC ERP](https://github.com/victorsestrem/hvac-erp-saas) | Sales, maintenance plans, finance, HR, inventory, client portal | Next.js · Prisma · BullMQ |
 | [Mental Health Assessment SaaS](https://github.com/victorsestrem/mental-health-assessment-saas) | Multi-tenant SaaS for mental health assessments | React · Express · Drizzle |
+| [Investor Academy Storefront](https://github.com/victorsestrem/investor-academy-storefront) | Storefront widget live on a news publisher's WordPress, plus the UI design of its subscription platform | HTML · CSS · JavaScript · Elementor |
 
 ## Stack
 
