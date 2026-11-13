@@ -19,6 +19,7 @@ Most of my work is proprietary, so the code stays private. The repositories belo
 | [Private Chauffeur Booking Platform](https://github.com/victorsestrem/private-chauffeur-booking-platform) | Requests, quotes, rides, driver portal and online booking for a chauffeur company in Paris *(in development)* | Next.js · Prisma · PostgreSQL · Docker |
 | [IT Asset Management & Help Desk](https://github.com/victorsestrem/it-asset-helpdesk-system) | Equipment lifecycle, inspections with QR codes, tickets with SLA | NestJS · React · PostgreSQL |
 | [Contract-first ERP Foundation](https://github.com/victorsestrem/event-erp-foundation) | OpenAPI-generated clients, layered API, AI-agent definition of done | Express · React · Drizzle · Playwright |
+| [Branded URL Shortener](https://github.com/victorsestrem/branded-url-shortener) | Private team link shortener on YOURLS: UTM catalog, paid traffic guard, audit log, 30 day trash | YOURLS · PHP · MariaDB · Docker |
 | [NPS & Guest Feedback Platform](https://github.com/victorsestrem/nps-feedback-platform) | Tablet-first NPS at events with QR codes, results and exports; migrated from WordPress | NestJS · Next.js · PostgreSQL |
 | [Growth Analytics Dashboard](https://github.com/victorsestrem/growth-analytics-dashboard) | Campaign and messaging metrics from the Kommo API, Excel export | NestJS · Next.js · ExcelJS |
 | [Multi-tenant HVAC ERP](https://github.com/victorsestrem/hvac-erp-saas) | Sales, maintenance plans, finance, HR, inventory, client portal | Next.js · Prisma · BullMQ |
