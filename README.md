@@ -12,7 +12,7 @@ Most of my work is proprietary, so the code stays private. The repositories belo
 
 | Project | What it is | Stack |
 |---|---|---|
-| [WhatsApp AI Sales Agent](https://github.com/victorsestrem/whatsapp-ai-sales-agent) | Guarded, human-in-the-loop LLM agent for wedding and event leads: router/doer/reviewer, grounded facts, evals with a simulated client | NestJS · Next.js · OpenAI · Anthropic |
+| [WhatsApp AI Sales Agent](https://github.com/victorsestrem/whatsapp-ai-sales-agent) | Proprietary events CRM with a guarded, human-in-the-loop LLM sales agent on WhatsApp: router/doer/reviewer, grounded facts, evals with a simulated client | NestJS · Next.js · OpenAI · Anthropic |
 | [AI Engineering Operating System](https://github.com/victorsestrem/ai-engineering-operating-system) | How I run many AI coding agents in parallel: coordinator sessions, task briefs, skills per task type, an independent reviewer agent and fail-closed hooks | Claude Code · Cursor · Bash · Next.js |
 | [Voice English Tutor](https://github.com/victorsestrem/voice-english-tutor) | Spoken English practice in the browser with real-time interruption, a model fallback chain ending in a local LLM, lessons, pronunciation scoring and spaced review *(personal project)* | Python · Pipecat · Whisper · Kokoro · Ollama |
 | [Local Voice Assistant](https://github.com/victorsestrem/local-voice-assistant) | Brazilian Portuguese home voice assistant that runs entirely on the owner's machine, with memory across conversations *(personal project)* | Home Assistant · faster-whisper · Piper · openWakeWord |
@@ -27,7 +27,6 @@ Most of my work is proprietary, so the code stays private. The repositories belo
 
 | Project | What it is | Stack |
 |---|---|---|
-| [Events CRM with AI Sales Agent](https://github.com/victorsestrem/events-crm-ai-platform) | Full CRM: WhatsApp inbox, pipeline, permissions and planning; the AI agent is detailed in WhatsApp AI Sales Agent | NestJS · Next.js · PostgreSQL · Redis |
 | [Contract Generation System](https://github.com/victorsestrem/contract-generation-system) | Generates legal contracts from the lawyer's Word templates, Word + PDF | NestJS · Next.js · docxtemplater · Gotenberg |
 | [Real Estate Auction Search](https://github.com/victorsestrem/real-estate-auction-search) | São Paulo real estate auctions from banks, auctioneers and court gazettes in one database: 25 polite collectors, total-cost rules, lawsuit stages, map and alerts *(demo)* | Next.js · PostgreSQL/PostGIS · BullMQ · TypeScript |
 | [Buffet Management System](https://github.com/victorsestrem/buffet-management-system) | Management product for party venues: sales funnel, visits, proposals, PDF contracts, calendar with conflict locking, installments and roles *(in development)* | Next.js 16 · Drizzle · PostgreSQL |
