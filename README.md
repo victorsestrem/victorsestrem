@@ -11,6 +11,10 @@ Most of my work is proprietary, so the code stays private. The repositories belo
 | Project | What it is | Stack |
 |---|---|---|
 | [WhatsApp AI Sales Agent](https://github.com/victorsestrem/whatsapp-ai-sales-agent) | Guarded, human-in-the-loop LLM agent for wedding and event leads: router/doer/reviewer, grounded facts, evals with a simulated client | NestJS · Next.js · OpenAI · Anthropic |
+| [AI Engineering Operating System](https://github.com/victorsestrem/ai-engineering-operating-system) | How I run many AI coding agents in parallel: coordinator sessions, task briefs, skills per task type, an independent reviewer agent and fail-closed hooks | Claude Code · Cursor · Bash · Next.js |
+| [AI Deal Monitoring Agents](https://github.com/victorsestrem/ai-deal-monitoring-agents) | Scheduled AI agents that browse real travel sites, decide each deal's state by explicit rules, publish a versioned dashboard and alert on Telegram only on change *(personal project)* | Claude Code · Chrome automation · Node.js · Python |
+| [Voice English Tutor](https://github.com/victorsestrem/voice-english-tutor) | Spoken English practice in the browser with real-time interruption, a model fallback chain ending in a local LLM, lessons, pronunciation scoring and spaced review *(personal project)* | Python · Pipecat · Whisper · Kokoro · Ollama |
+| [Local Voice Assistant](https://github.com/victorsestrem/local-voice-assistant) | Brazilian Portuguese home voice assistant that runs entirely on the owner's machine, with memory across conversations *(personal project)* | Home Assistant · faster-whisper · Piper · openWakeWord |
 | [Events CRM with AI Sales Agent](https://github.com/victorsestrem/events-crm-ai-platform) | Full CRM with WhatsApp inbox, pipeline and an LLM agent with router/doer/reviewer roles | NestJS · Next.js · PostgreSQL · Redis |
 | [Private AI Assistant with RAG](https://github.com/victorsestrem/private-ai-assistant-rag) | On-premise assistant with local embeddings, semantic search and model routing | NestJS · Next.js · Transformers.js · Ollama · Gemini |
 | [Contract Generation System](https://github.com/victorsestrem/contract-generation-system) | Generates legal contracts from the lawyer's Word templates, Word + PDF | NestJS · Next.js · docxtemplater · Gotenberg |
@@ -29,6 +33,11 @@ Most of my work is proprietary, so the code stays private. The repositories belo
 | [Mental Health Assessment SaaS](https://github.com/victorsestrem/mental-health-assessment-saas) | Multi-tenant SaaS for mental health assessments | React · Express · Drizzle |
 | [Investor Academy Storefront](https://github.com/victorsestrem/investor-academy-storefront) | Storefront widget live on a news publisher's WordPress, plus the UI design of its subscription platform | HTML · CSS · JavaScript · Elementor |
 | [Smart TV Book Streaming](https://github.com/victorsestrem/smart-tv-book-streaming) | A "Netflix for books" for Smart TV browsers, driven only by the remote control | React · TypeScript · Vite · Cloudflare Pages |
+| [Real Estate Auction Search](https://github.com/victorsestrem/real-estate-auction-search) | São Paulo real estate auctions from banks, auctioneers and court gazettes in one database: 25 polite collectors, total-cost rules, lawsuit stages, map and alerts *(demo)* | Next.js · PostgreSQL/PostGIS · BullMQ · TypeScript |
+| [Buffet Management System](https://github.com/victorsestrem/buffet-management-system) | Management product for party venues: sales funnel, visits, proposals, PDF contracts, calendar with conflict locking, installments and roles *(in development)* | Next.js 16 · Drizzle · PostgreSQL |
+| [CRM Backup and Sales Dashboards](https://github.com/victorsestrem/crm-backup-and-sales-dashboards) | Complete re-importable backup of a hosted CRM (API plus a Playwright browser session) into PostgreSQL, SDR/closer dashboards and an auditable lead score | Node.js · PostgreSQL · Playwright · OpenAI |
+| [PDF Catalog Generator](https://github.com/victorsestrem/pdf-catalog-generator) | Django system that syncs a B2B distributor's products from its ERP and renders branded PDF catalogs; outage diagnosis, security review and ERP migration package *(pilot)* | Python · Django · xhtml2pdf · SQLite |
+| [WordPress Incident Recovery](https://github.com/victorsestrem/wordpress-incident-recovery) | Response to a website compromise: root cause, clean rebuild, about 470 images reconstructed in a local Docker clone, surgical deploy, hardening and a memory incident | WordPress · Nginx · Docker · AWS · Python |
 
 ## Stack
 
