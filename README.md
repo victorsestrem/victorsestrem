@@ -38,6 +38,7 @@ Most of my work is proprietary, so the code stays private. The repositories belo
 | [IT Asset Management & Help Desk](https://github.com/victorsestrem/it-asset-helpdesk-system) | Equipment lifecycle, inspections with QR codes, tickets with SLA | NestJS · React · PostgreSQL |
 | [NPS & Guest Feedback Platform](https://github.com/victorsestrem/nps-feedback-platform) | Tablet-first NPS at events with QR codes, results and exports; migrated from WordPress | NestJS · Next.js · PostgreSQL |
 | [Contract-first ERP Foundation](https://github.com/victorsestrem/event-erp-foundation) | OpenAPI-generated clients, layered API, AI-agent definition of done | Express · React · Drizzle · Playwright |
+| [Virtual Wardrobe](https://github.com/victorsestrem/virtual-wardrobe-outfit-planner) | Privacy-first digital closet: background removal that never redraws the garment, dynamic categories, outfit builder and a deterministic recommendation engine with zero AI cost *(personal project, in development)* | Next.js 16 · Prisma · PostgreSQL · Docker |
 
 ### Data, infrastructure & tools
 
