@@ -1,6 +1,6 @@
 # Hi, I'm Victor Sestrem 👋
 
-**Senior Full Stack & AI Engineer** · São Paulo, Brazil · Open to relocating to the U.S.
+**Head of Technology · Full Stack & AI Engineer** · São Paulo, Brazil · Open to relocating to the U.S.
 
 I build production systems end to end with **TypeScript, React/Next.js, Node.js/NestJS and PostgreSQL**, and I put AI to work inside the products I ship: LLM agents, RAG and automation. I've also led engineering teams as Head of Technology and CTO, so I care about architecture, security and delivery as much as the code.
 
@@ -31,7 +31,7 @@ Most of my work is proprietary, so the code stays private. The repositories belo
 
 ## Stack
 
-`TypeScript` `Node.js` `NestJS` `React` `Next.js` `PostgreSQL` `Prisma` `Redis` `Docker` `Nginx` `AWS` `OpenAI / Anthropic APIs` `RAG` `AI agents` `Claude Code` `Cursor`
+`TypeScript` `Node.js` `NestJS` `React` `Next.js` `Angular` `Vue` `React Native (Expo)` `Python` `FastAPI` `PostgreSQL` `Prisma` `Redis` `Docker` `Nginx` `AWS` `OpenAI / Anthropic APIs` `Gemini` `Ollama` `Whisper` `RAG` `AI agents` `Claude Code` `Cursor`
 
 ## Contact
 
