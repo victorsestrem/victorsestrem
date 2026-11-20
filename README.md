@@ -30,6 +30,7 @@ Most of my work is proprietary, so the code stays private. The repositories belo
 | Project | What it is | Stack |
 |---|---|---|
 | [Contract Generation System](https://github.com/victorsestrem/contract-generation-system) | Generates legal contracts from the lawyer's Word templates, Word + PDF | NestJS · Next.js · docxtemplater · Gotenberg |
+| [Law Firm Management System](https://github.com/victorsestrem/law-firm-management-system) | Self-hosted practice management for small Brazilian law firms: clients, cases, court notices, deadlines, fees and Word documents on the firm's own server *(ready for first installation)* | Next.js 16 · Drizzle · PostgreSQL · Better Auth |
 | [Real Estate Auction Search](https://github.com/victorsestrem/real-estate-auction-search) | São Paulo real estate auctions from banks, auctioneers and court gazettes in one database: 25 polite collectors, total-cost rules, lawsuit stages, map and alerts *(demo)* | Next.js · PostgreSQL/PostGIS · BullMQ · TypeScript |
 | [Buffet Management System](https://github.com/victorsestrem/buffet-management-system) | Management product for party venues: sales funnel, visits, proposals, PDF contracts, calendar with conflict locking, installments and roles *(in development)* | Next.js 16 · Drizzle · PostgreSQL |
 | [Dental Clinic Management System](https://github.com/victorsestrem/dental-clinic-management-system) | Scheduling, patients, professionals and finance for dental clinics *(in development)* | Next.js · Drizzle · PostgreSQL · Better Auth |
